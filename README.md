@@ -46,6 +46,3 @@ The findings from this project aim to improve the understanding of social intera
 
 Through careful evaluation of both graph-based and hypergraph-based community detection methods, this research seeks to enhance the accuracy of identifying communities within the YouTube social network, providing insights that can be leveraged in various domains.
 
-## Acknowledgments
-
-Thank you to the contributors and libraries that support this project.
