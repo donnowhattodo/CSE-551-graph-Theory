@@ -6,4 +6,5 @@
    - Link to Paper: https://www.science.org/doi/10.1126/sciadv.adg9159
 4. Community detection in hypergraphs via mutual information maximization
    - Link to paper: https://www.nature.com/articles/s41598-024-55934-5
-   
+5. Evaluation Matrices:
+   - link: https://github.com/scikit-learn/scikit-learn/blob/caaa1f52a/sklearn/metrics/cluster/_supervised.py#L630 
